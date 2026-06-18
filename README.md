@@ -31,6 +31,8 @@ This repository contains my Python practice, assignments, notes, and projects co
 
 * Classes & Objects
 * Constructors
+* Abstraction
+* Encapsulation
 * Inheritance
 * Polymorphism
 * Mini Chat System Project
